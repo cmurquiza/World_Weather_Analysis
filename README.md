@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+## This analysis was to retrieve data in weather data and understand the kind of weather factors and conditions that might be important information customers to have, to help create a customer destination travel map for customers who desire to vacation based on temperature with available hotels in those locations, and also to create a travel itinerary with locations near each other that can be driven to each point, and also hotel locations for the itinerary as well. This provides the customer with a user friendly way to create a more custom and interactive vacation planner. 
